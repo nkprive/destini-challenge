@@ -7,4 +7,4 @@ https://user-images.githubusercontent.com/17130544/149767851-4e768d0d-963d-4c77-
 
 The app implements a little story plot diagram as follows:
 
-[Destini-Story-Plan.pdf](https://github.com/nkprive/destini-challenge/files/7881749/Destini-Story-Plan.pdf)
+<img width="851" alt="Screenshot 2022-01-17 at 13 16 49" src="https://user-images.githubusercontent.com/17130544/149768119-8a3129ad-20ae-4a55-95e2-26d3ffb5d3e9.png">
